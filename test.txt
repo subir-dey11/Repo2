@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AAA-940D
+
+ Directory of C:\SD\MyProject
+
+06/01/2017  09:04 AM    <DIR>          .
+06/01/2017  09:04 AM    <DIR>          ..
+06/01/2017  09:04 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   9,167,626,240 bytes free
